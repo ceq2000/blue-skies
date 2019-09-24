@@ -1,0 +1,43 @@
+/*
+This is where our own custom CSS will live
+in case we need to overwrite Bootstrap
+colors to use
+yellow: #FDAB00
+light green: #19FD95
+purple: #7F09B0
+light-blue: #3FB8FD
+brownish-yellow: #B07D12
+*/
+
+/* Google Font Montserrat to override Bootstrap Default */
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+body {
+font-family: 'Montserrat', sans-serif !important;
+}
+
+.jumbotron {
+background-color: #FDAB00 !important;
+}
+.header {
+color: #000;
+text-align: center;
+}
+
+/* Train Schedule */
+.schedule-header {
+background-color: #FDAB00 !important;
+color: #000;
+font-weight:bold;
+}
+
+/* Form Field */
+.form-header {
+background-color: #FDAB00 !important;
+color: #000;
+font-weight:bold;
+}
+
+.button-add {
+background-color: #19FD95;
+}
