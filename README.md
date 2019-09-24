@@ -19,7 +19,7 @@ This is a website with a train schedule application that incorporates Firebase t
 
 * [Link to my portfolio](https://ceq2000.github.io/portfolio/portfolio2.html)
 
-### List of Technologies Used:
+## List of Technologies Used:
 
 - HTML
 - CSS
