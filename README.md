@@ -11,11 +11,11 @@ This is a website with a train schedule application that incorporates Firebase t
 
 ## Important Links
 
-* [Link to the app website](https://ceq2000.github.io/train-scheduler/)
+* [Link to the train scheduler website](https://ceq2000.github.io/train-scheduler/)
 
-* [Link to my GitHub website repository ](https://github.com/ceq2000/train-scheduler/)
+* [Link to my GitHub train scheduler repository](https://github.com/ceq2000/train-scheduler/)
 
-* [Link to my GitHub (main page)](https://https://github.com/ceq2000/)
+* [Link to my GitHub (homepage)](https://https://github.com/ceq2000/)
 
 * [Link to my portfolio](https://ceq2000.github.io/portfolio/portfolio2.html)
 
